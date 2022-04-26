@@ -4,4 +4,4 @@ Nội dung đề tài : xây dựng ứng dụng blog để mọi người có t
 ## Web: SpringBoot(Java) + ReactJS(TypeScript)
 ## Mobile: Flutter(Dart)
 
-##Tài liệu phân tích thiết kế : https://app.diagrams.net/?fbclid=IwAR0Ywstw_xre4gV8ctBzoPV9aEtk_jqPUbU4jejHniBkCAB_4u3a9S2QSf4#G1yaEpIbCVW18r7jAdPt1ul0hhbhxDGWed
+## Tài liệu phân tích thiết kế : https://app.diagrams.net/?fbclid=IwAR0Ywstw_xre4gV8ctBzoPV9aEtk_jqPUbU4jejHniBkCAB_4u3a9S2QSf4#G1yaEpIbCVW18r7jAdPt1ul0hhbhxDGWed
