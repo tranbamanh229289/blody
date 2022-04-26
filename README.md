@@ -1,4 +1,5 @@
-# Đồ án thiết kế hệ thống thông tin ,xây dựng ứng dụng blog để mọi người có thể chia sẻ kiến thức, kinh nghiệm của mình về các lĩnh vực : khoa học, công nghệ, nghệ thuật, kinh tế, văn hóa, tôn giáo, triết học, lịch sử, địa lý, danh nhân,....Hay đơn giản là những chia sẻ về góc nhìn, trải nghiệm của mình về các mối quan hệ, các giá trị trong cuộc sống thường ngày.
+# Đồ án thiết kế hệ thống thông tin 
+Nội dung đề tài : xây dựng ứng dụng blog để mọi người có thể chia sẻ kiến thức, kinh nghiệm của mình về các lĩnh vực : khoa học, công nghệ, nghệ thuật, kinh tế, văn hóa, tôn giáo, triết học, lịch sử,...
 
 ## Web: Sử dụng SpringBoot + ReactJS
 ## Mobile: Sử dụng Flutter
